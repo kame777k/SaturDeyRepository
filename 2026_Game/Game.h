@@ -1,5 +1,25 @@
 #pragma once
+
+#include<vector>
+
+#include"Camera.h"
+#include"BackGround.h"
+#include"Map.h"
 class Game
 {
+private:
+
+	Camera camera;	//ÉJÉÅÉâ
+
+	BackGround background;	//îwåi
+
+	std::vector<Map>objects;
+public:
+
+	void Init();
+
+	void Update();
+
+	void Draw();
 };
 
