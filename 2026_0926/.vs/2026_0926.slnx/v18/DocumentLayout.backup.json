@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA7AB18-D172-40B3-A1A5-CD495577EE03}|2026_0926.vcxproj|solutionrelative:Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAKcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-27T10:49:35.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Map.cpp",
+              "RelativeDocumentMoniker": "Map.cpp",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Map.cpp",
+              "RelativeToolTip": "Map.cpp",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAACABAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-27T10:49:19.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAowIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-27T10:49:06.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Collision.cpp",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Collision.cpp",
+              "RelativeDocumentMoniker": "Collision.cpp",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Collision.cpp",
+              "RelativeToolTip": "Collision.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-27T10:47:09.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.h",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Config.h",
+              "RelativeDocumentMoniker": "Config.h",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Config.h",
+              "RelativeToolTip": "Config.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-27T10:44:16.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-27T10:43:46.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwFYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-27T10:43:37.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Collision.h",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Collision.h",
+              "RelativeDocumentMoniker": "Collision.h",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Collision.h",
+              "RelativeToolTip": "Collision.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-27T10:43:25.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Map.h",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Map.h",
+              "RelativeDocumentMoniker": "Map.h",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Map.h",
+              "RelativeToolTip": "Map.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-27T10:43:16.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\\u5B66\u6821\\Dxlib\\2026_0926\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-27T10:43:04.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
