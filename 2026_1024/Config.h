@@ -1,7 +1,9 @@
 #pragma once
+//ゲームの設定値まとめるファイル
+//数値やファイルパスを変更するときは、ここを確認します。
 namespace Config
 {
-	//マップチップの画像設定
+	//マップチップ画像の設定
 	constexpr int MAP_CHIP_SIZE = 64;
 	constexpr int MAP_CHIP_IMAGE_COLUMNS = 16;
 	constexpr int MAP_CHIP_IMAGE_ROWS = 4;
@@ -15,12 +17,10 @@ namespace Config
 	constexpr int MAP_EMPTY = 0;
 
 	//マップファイル
-	constexpr char MAP_CHIP_IMAGE_PATH[] = "";
-	constexpr char MAP_HIT_CSV_PATH[] = "";
-	constexpr char MAP_BACK_CSV_PATH[] = "";
-	constexpr char MAP_BASE_CSV_PATH[] = "";
-	constexpr char MAP_NEAR_CSV_PATH[] = "";
-
-
+	constexpr char MAP_CHIP_IMAGE_PATH[] = "data/island.png";
+	constexpr char MAP_HIT_CSV_PATH[] = "data/island_hit.csv";
+	constexpr char MAP_BACK_CSV_PATH[] = "data/island_back.csv";
+	constexpr char MAP_BASE_CSV_PATH[] = "data/island_base.csv";
+	constexpr char MAP_NEAR_CSV_PATH[] = "data/island_near.csv";
 
 }
