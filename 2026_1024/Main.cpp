@@ -21,11 +21,13 @@ int WINAPI WinMain(HINSTANCE hIstance, HINSTANCE hPrevInstance, LPSTR LpCmdLine,
 	{
 		ClearDrawScreen();
 
+		//ƒ}ƒbƒv‚Ì•`‰æ
 		map.Draw();
 
 		ScreenFlip();
 	}
 
+	map.Finalize();
 	DxLib_End();
 	return 0;
 }
