@@ -1,21 +1,23 @@
-#include"DxLib.h"
+#include"Dxlib.h"
 #include"Config.h"
-#include"Map.h"
+#include "Map.h"
 
-int WINAPI WinMain(HINSTANCE hIstance, HINSTANCE hPrevInstance, LPSTR LpCmdLine, int nCmdShow)
+int WINAPI WinMain(HINSTANCE hIstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
 	ChangeWindowMode(TRUE);
-	if (DxLib_Init() == -1)return -1;
+	if (DxLib_Init() == -1) return -1;
 	SetDrawScreen(DX_SCREEN_BACK);
-
+	//マップを管理するオブジェクト
 	Map map;
 
 	//マップが読み込みができなかったら
 	if (!map.Init())
 	{
-		map.Finalize(); DxLib_End();
+		map.Finalize();
+		DxLib_End();
 		return -1;
 	}
+	//ゲームループ
 
 	while (ProcessMessage() == 0 && CheckHitKey(KEY_INPUT_ESCAPE) == 0)
 	{
@@ -29,5 +31,7 @@ int WINAPI WinMain(HINSTANCE hIstance, HINSTANCE hPrevInstance, LPSTR LpCmdLine,
 
 	map.Finalize();
 	DxLib_End();
+
 	return 0;
+
 }
